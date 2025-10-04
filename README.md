@@ -18,9 +18,7 @@ To create an interactive Power BI dashboard showing sales performance by region,
 4. Designed layout with KPIs and clean visuals.
 
 ## Insights
-1. West region had the highest sales.
-2. Technology category performed best overall.
-3. Sales increased sharply during Q4.
+“Sales increased steadily between 2015–2017, led by the Technology category which generated the highest revenue share. The dashboard highlights consistent regional sales distribution and strong year-end growth trends.”
 
 ## Outcome
 Gained experience in designing clean, insightful dashboards for business analysis.
