@@ -1,0 +1,18 @@
+
+📊 Insights from Sales Dashboard
+
+Overall Sales Growth:
+
+Sales have shown a consistent upward trend from 2015 (0.47M) to 2017 (0.73M), indicating strong year-over-year growth and improved business performance.
+
+Category Performance:
+
+The Technology category leads with 36.4% of total sales (≈836K), followed by Furniture (32.3%) and Office Supplies (31.3%). This suggests that Technology products are the company’s key revenue driver.
+
+Profitability Overview:
+
+The total profit recorded is 8.40K, which aligns proportionally with the sales trend — higher sales categories likely contribute more to profit margins.
+
+Regional Distribution:
+
+The dashboard shows activity across four regions, but the West region (based on general Superstore data patterns) is expected to be the top-performing area in sales volume.
